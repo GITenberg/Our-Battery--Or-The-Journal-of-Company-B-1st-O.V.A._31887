@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35535'
     url: http://www.gutenberg.org/2009/agents/35535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31887#Our-Battery--Or-The-Journal-of-Company-B-1st-O.V.A.
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-04-05'
 gutenberg_type: Text
