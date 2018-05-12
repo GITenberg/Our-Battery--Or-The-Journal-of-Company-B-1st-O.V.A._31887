@@ -1,0 +1,29 @@
+_repo: Our-Battery--Or-The-Journal-of-Company-B-1st-O.V.A._31887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cutter, O. P. (Orlando Phelps)
+    alias: Cutter, Orlando P.
+    gutenberg_agent_id: '35535'
+    url: http://www.gutenberg.org/2009/agents/35535
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31887'
+  lccn: 02015238
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Ohio Light Artillery Regiment, 1st (1861-1865). Battery
+  B'
+title: Our Battery; Or, The Journal of Company B, 1st O.V.A.
+url: http://www.gutenberg.org/ebooks/31887
